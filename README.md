@@ -1,1 +1,0 @@
-My first blog based on jekyll
